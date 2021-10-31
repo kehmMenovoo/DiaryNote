@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First post",
+      "datetime": "October 29, 2021 8:04 PM",
+      "body": "Also you declared the \"hours\" variable twice but made \"strTime\" an accidental global. It's not extremely elegant but this seems to be the proper technique using native methods."
+    },
+    {
+      "id": 2,
+      "title": "Second post",
+      "datetime": "October 29, 2021 8:54 PM",
+      "body": "I can implement that myself, before checking if there is some good built-in solution for your problem, that is well tested, maintained and recommended. Just take a look to toLocaleString it can format JS DateTime in so many ways, including your case. What do you think? Eh..."
+    },
+    {
+      "id": 4,
+      "title": "Forth post",
+      "datetime": "October 31, 2021 5:51 PM",
+      "body": "What would be the regex be to have a trailing zero at the beginning of the hour if it was a single digit. Say in your first example of 8:12 PM it would be 08:12 PM? Okay, Let's go!!!"
+    },
+    {
+      "id": 5,
+      "title": "Third post",
+      "datetime": "October 29, 2021 9:19 PM",
+      "body": "This React JS Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 9 hours of React JS code and instruction to level up your programming skills. This course teaches modern React with functional components and hooks. Think of this React full course tutorial as a React JS video textbook with 23 clearly defined chapters.\n"
+    },
+    {
+      "id": 6,
+      "title": "Industry Baby",
+      "datetime": "October 31, 2021 5:58 PM",
+      "body": "Easy Peasy is an abstraction of Redux, providing a reimagined API that focuses on developer experience. It allows you to quickly and easily manage your state, whilst leveraging the strong architectural guarantees and extensive eco-system that Redux has to offer."
+    },
+    {
+      "id": 7,
+      "title": "Topic",
+      "datetime": "October 31, 2021 5:58 PM",
+      "body": "Easy Peasy is an abstraction of Redux, providing a reimagined API that focuses on developer experience. It allows you to quickly and easily manage your state, whilst leveraging the strong architectural guarantees and extensive eco-system that Redux has to offer.Easy Peasy is an abstraction of Redux, providing a reimagined API that focuses on developer experience. It allows you to quickly and easily manage your state, whilst leveraging the strong architectural guarantees and extensive eco-system that Redux has to offer."
+    }
+  ]
+}
