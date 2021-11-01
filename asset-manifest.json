@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DiaryNote/static/css/main.1fa53966.chunk.css",
+    "main.js": "/DiaryNote/static/js/main.64b72ea2.chunk.js",
+    "main.js.map": "/DiaryNote/static/js/main.64b72ea2.chunk.js.map",
+    "runtime-main.js": "/DiaryNote/static/js/runtime-main.aa4d389b.js",
+    "runtime-main.js.map": "/DiaryNote/static/js/runtime-main.aa4d389b.js.map",
+    "static/js/2.9c86522a.chunk.js": "/DiaryNote/static/js/2.9c86522a.chunk.js",
+    "static/js/2.9c86522a.chunk.js.map": "/DiaryNote/static/js/2.9c86522a.chunk.js.map",
+    "index.html": "/DiaryNote/index.html",
+    "static/css/main.1fa53966.chunk.css.map": "/DiaryNote/static/css/main.1fa53966.chunk.css.map",
+    "static/js/2.9c86522a.chunk.js.LICENSE.txt": "/DiaryNote/static/js/2.9c86522a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa4d389b.js",
+    "static/js/2.9c86522a.chunk.js",
+    "static/css/main.1fa53966.chunk.css",
+    "static/js/main.64b72ea2.chunk.js"
+  ]
+}
